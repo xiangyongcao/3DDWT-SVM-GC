@@ -1,8 +1,4 @@
-# 3DDWT-SVM-GC
-
-==============================================================================================================================
-This is an implementation code of paper "Integration of 3-Dimensional Discrete Wavelet Transform and Markov Random Field for Hyperspectral Image Classification"
-==============================================================================================================================
+## 3DDWT-SVM-GC
 
  - If you use the code, please cite the paper:
 
