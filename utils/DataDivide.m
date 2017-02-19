@@ -1,5 +1,5 @@
 function [TrainLabels, TrainData, TestLabels, TestData,...
-    MapLabels, MapData, TrainingMap, TestMap,TrainIndex,TestIndex] = DataDivideNew(Data_scaled,Label,n)
+    MapLabels, MapData, TrainingMap, TestMap,TrainIndex,TestIndex] = DataDivide(Data_scaled,Label,n)
 
 [H, W, B] = size(Data_scaled);
 
